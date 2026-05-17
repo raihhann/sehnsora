@@ -289,7 +289,7 @@ export default function SehnsoraLandingPage() {
 
         {/* Small footer text */}
         <div className="text-xs text-[#8A85A3] space-y-1">
-          <p>© 2026 Sehnsora Inc. All rights reserved.</p>
+          <p>© 2026 Sehnsora. All rights reserved.</p>
           <p>Designed with pride at the Cyber Valley AI Incubator. Built by Shweta, Raihan, Yograj, and Abhishek.</p>
         </div>
       </section>
